@@ -1,0 +1,2 @@
+# Intelligent-Object-Detection-in-Video-using-python-computer-vision-OpenCv-
+This Python script uses OpenCV to detect objects in a video stream. It processes a video file, applies edge detection, and identifies potential objects using the Hough Line Transform. The script matches predefined object templates with template matching, marking detected objects and providing real-time feedback on the video.
